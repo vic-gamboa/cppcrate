@@ -18,7 +18,7 @@
 
 ## Current Functionality
 
-Running `cppcrate new <project_name>` creates the following directory structure:
+Running `./main new <project_name>` creates the following directory structure:
 ```
 <project_name>/
 ├── include/

@@ -16,4 +16,3 @@ $(TARGET): $(SRC)
 # Clean up
 clean:
 	rm -f $(TARGET)
-

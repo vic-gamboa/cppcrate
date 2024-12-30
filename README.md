@@ -71,6 +71,6 @@ This creates the project directory and populates it with the starting files.
 - Generating the initial project directory structure.
 - Creating predefined starting files.
 
-Stay tuned for updates as we expand its functionality!
+Stay tuned for updates as I expand its functionality :3
 
 ---

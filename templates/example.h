@@ -3,10 +3,11 @@
 
 // Example header file for the project
 
-namespace example {
-
-void sayHello();
-
-}
+class Example {
+  public:
+    Example();
+    ~Example();
+    void doSomething();
+};
 
 #endif

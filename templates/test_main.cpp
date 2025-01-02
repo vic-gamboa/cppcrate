@@ -6,7 +6,8 @@ int main() {
     std::cout << "Running tests..." << std::endl;
 
     // Example test
-    example::sayHello();
+    Example bear;
+    bear.doSomething();
 
     std::cout << "All tests passed!" << std::endl;
     return 0;

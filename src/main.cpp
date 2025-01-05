@@ -102,7 +102,6 @@ int main(int argc, char *argv[]) {
     if (std::string(argv[1]) == "new") {
         std::thread animationThread(bearAnimation);
         path projectPath(argv[2]);
-        std::cout << "Initializing new project: " << projectPath << std::endl;
         initializeProjectFiles(projectPath, directories, files);
         stopAnimation = true;
         animationThread.join();
